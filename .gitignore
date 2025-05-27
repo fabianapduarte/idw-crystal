@@ -1,1 +1,6 @@
-/data/measurements.txt
+/docs/
+/lib/
+/bin/
+/.shards/
+/data/*.txt
+*.dwarf

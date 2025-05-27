@@ -1,0 +1,13 @@
+name: idw-crystal
+version: 0.1.0
+
+authors:
+  - Fabiana Duarte <fabianaduarte980@gmail.com>
+
+targets:
+  idw-crystal:
+    main: src/idw-crystal.cr
+
+crystal: '>= 1.16.0'
+
+license: MIT

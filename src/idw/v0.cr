@@ -58,8 +58,6 @@ def main()
   point = Point.new(x, y)
   idw_calculator = IDW.new(point)
 
-  file_size = File.size(file_path)
-
   begin
     File.open(file_path) do |file|
       while line = file.gets

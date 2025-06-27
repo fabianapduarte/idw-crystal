@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-como-executar-o-projeto">Como executar</a> • 
-  <a href="#-versoes-do-algoritmo">Versões do algoritmo</a>
+  <a href="#-versões-do-algoritmo">Versões do algoritmo</a>
 </p>
 
 <br>

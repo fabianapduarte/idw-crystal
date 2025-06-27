@@ -25,7 +25,7 @@ Dentre os diversos métodos de interpolação espacial existentes, a aplicação
 Para executar o projeto, siga os seguintes passos:
 
 1. É preciso ter Crystal instalado na sua máquina. Para instalar, consulte o [link](https://crystal-lang.org/install/).
-2. Adicione um arquivo `.txt` com o dados de entrada na pasta `data/`. Cada linha do algoritmo precisa seguir o formato `x,y,z`, sendo `x` um número inteiro a posição do ponto no eixo horizontal, `y` um número inteiro a posição do ponto no eixo vertical e `z` um número de ponto flutuante de uma casa decimal representando a temperatura medida para a coordenada.
+2. Adicione um arquivo `measurements.txt` com os dados de entrada na pasta `data/`. Cada linha do algoritmo precisa seguir o formato `x,y,z`, sendo `x` um número inteiro com a posição do ponto no eixo horizontal, `y` um número inteiro com a posição do ponto no eixo vertical e `z` um número de ponto flutuante de uma casa decimal representando a temperatura medida para a coordenada.
 3. Para executar pelo terminal:
 
 ```bash
